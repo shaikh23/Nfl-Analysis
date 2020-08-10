@@ -12,13 +12,17 @@ Sports has always held a special place for me, with my favorite being football. 
 
 
 # Results
-!Rb Height vs Yards  (/images/rbhtscatyds.png)
+![Rb Height vs Yards](/images/rbhtscatyds.png)
 
+![Rb Height vs Yards](/images/rbhtscatyds.png)
 
+![Rb Height vs Yards](/images/rbhtscatyds.png)
+
+![Rb Height vs Yards](/images/rbhtscatyds.png)
 
 
 # Technologies Utilized
-Python, Pandas to read the information, Matplotlib/Seaborn to visualize the plots, and Scipy to run the statistical tests.
+The tech stack I used was Python and Pandas to read and clean the information. Matplotlib along with Seaborn were used to visualize the data in plots and Scipy was used to run the statistical tests and determine the p-values for each test.
 
 
 # Future Steps
